@@ -31,3 +31,38 @@ img {
   font-size: 20px;
 }
 /* !===================================== 1 ex ===================================== */
+
+/* !===================================== 2 ex ===================================== */
+#datetime-picker {
+  padding-bottom: 5px;
+  padding-top: 5px;
+  padding-left: 5px;
+  margin-right: 10px;
+}
+.input-area-2ex {
+  display: flex;
+  justify-content: center;
+  margin-top: 200px;
+}
+.btn-2ex {
+  padding: 5px 10px;
+  text-transform: uppercase;
+}
+.value {
+  font-size: 30px;
+  font-weight: 700;
+}
+.timer {
+  display: flex;
+  margin-top: 20px;
+  justify-content: center;
+}
+.field{
+  display: flex;
+  margin-right: 20px;
+}
+.label {
+  text-transform: uppercase;
+  margin-left: 5px;
+}
+/* !===================================== 2 ex ===================================== */

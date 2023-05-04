@@ -66,3 +66,29 @@ img {
   margin-left: 5px;
 }
 /* !===================================== 2 ex ===================================== */
+
+
+/* !===================================== 3 ex ===================================== */
+.form {
+  display: flex;
+  flex-direction: row;
+  margin-left: 100px;
+  align-items: flex-end;
+}
+.one-lable {
+  display: flex;
+  flex-direction: column;
+  margin-right: 15px;
+}
+
+.btn-3ex{
+  height: 21px;
+  font-size: 15px;
+  font-weight: 500;
+}
+
+.text-3ex {
+  font-size: 20px;
+  font-weight: 500;
+}
+/* !===================================== 3 ex ===================================== */
